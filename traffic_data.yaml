@@ -1,0 +1,6 @@
+train : C:\Users\Koushik N\Desktop\Yolo11_Final_Project\train
+val : C:\Users\Koushik N\Desktop\Yolo11_Final_Project\val
+
+nc : 44
+
+names : ["vehicle prohibited","Axle Load Limit", "Barrier Ahead", "Cattle", "Compulsary Ahead", "Compulsary Ahead or Left", "Compulsary Ahead or Right", "Compulsary Keep Left","Compulsary Keep Right","Compulsary Sound Horn","Cycle Prohibited","Falling Rocks","Gap In Median","Give Way","Height Limit","Horn Prohobited","Hump or Rough Road Ahead","Left Hair Pin Bend","Left Hand Curve","Load Limit","Narrow Bridge","Narrow Road Ahead","No Entry","No Parking","Right Hair Pin Bend","Right Hand Curve","Road Widens Ahead","Speed Limit 5","Speed Limit 20","Speed Limit 40","Speed Limit 60","Speed Limit 80","Speed Limit 70","Speed Limit 30","Steep Ascent","Steep Descent","Stop","T Intersection","U Turn Prohibited","Animals Ahead","Pedestrian Ahead","Speed breaker Ahead","Pothole Present","speed check camera ahead"]
